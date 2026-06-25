@@ -34,7 +34,7 @@ The model weights (checkpoints) must be uploaded to your Space:
 
 2. **Clone the Space locally**:
    ```bash
-   git clone https://huggingface.co/spaces/Aystar/VADAS
+   git clone https://huggingface.co/spaces/Zoro2809/VADAS
    cd VADAS
    ```
 
